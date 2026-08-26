@@ -1,0 +1,10 @@
+.DS_Store
+
+# 压缩包与 Office 文档默认不进入主仓库；图片、PDF、Notebook 保留。
+*.rar
+*.zip
+*.7z
+*.doc
+*.docx
+*.xls
+*.xlsx

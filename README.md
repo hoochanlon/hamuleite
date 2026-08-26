@@ -1,0 +1,38 @@
+<h1 align="center"> 免责声明 </h1>
+
+该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！中国用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
+
+# ***<ruby>城中村哈姆雷特<rp>（</rp><rt>信息网络社科资源整合库</rt><rp></rp></ruby>***
+
+<a href="https://ndltd.ncl.edu.tw" target="_blank">
+<img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
+<a href="http://tul.blog.ntu.edu.tw/archives/19642">
+  <img align="right" width="260" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
+</a>
+<a href="https://toaj.stpi.niar.org.tw/">
+  <img  width="260" alt="tw_u" src="https://github.com/user-attachments/assets/f521ba8a-a6e6-494c-97a7-883d8aebfa4c" />
+</a>
+<br>
+
+## 说明
+
+🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+
+
+- **[19960101-20XXMMDD](./19960101-20XXMMDD/)** — 主资料库，社会现象、人文社科议题的链接与文章聚合
+- **[冲出你的窗口](./有趣的/冲出你的窗口)** — ss、ssr、vpn 等相关内容 
+- **[有趣的](./有趣的/)** — 社会学文献信息库，含学术期刊、图书馆导航、数据分析资源、书籍搜索与题库等
+- **[无聊的](./无聊的/)** — 社会议题、财经、就业、人生观察类链接聚合
+- **[大众级数据分析](./大众级数据分析/)** — 各类数据站点导航、经济研究资源、社会分层等主题阅读材料
+- **[集成实用夹](./集成实用夹/)** — 综合工具导航：书库、API、图表工具、热搜、书签等实用网站汇总；LaTeX 学习资料与工具汇总；RSS 订阅源，含新闻、财经、学术期刊分类
+- **[软件分享及网页备份](./软件分享及网页备份/)** — 软件下载、Windows/Mac 工具链、激活资源、PT/BT、网页备份等
+- **[媒体订阅](./媒体订阅/)** — 英语新闻、杂志订阅、TG 频道、免费软件/游戏资讯、游戏折扣等
+- **[AI](./AI/)** — AI 工具、镜像站与学习平台导航
+- **[2077](./2077/)** — 杂项资源：出版社下载、工具网站、社会议题等
+
+
+fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。最后感谢参与 PR 的所有人。
+
+<a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
+</a>
