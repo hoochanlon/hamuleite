@@ -1,4 +1,4 @@
-![冲出你的窗口](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png)
+![冲出你的窗口](../../集成实用夹/W3UnitTest/ccndck.png)
 
 **
 

@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/hoochanlon/hamuleite/refs/heads/master/W3UnitTest/yingmapian.png" height="230" width="auto"  align="left"> 这个世界从来都运行着两套并行的规则。一套明明白白地写在纸面上，昭示着公平、努力与道德，那是给所有人看的；另一套则巧妙地藏在复杂的金融工具背后，只在特定的人群中默然流传，关乎着杠杆、稀缺与人性的洞察。
+<img src="../../集成实用夹/W3UnitTest/yingmapian.png" height="230" width="auto"  align="left"> 这个世界从来都运行着两套并行的规则。一套明明白白地写在纸面上，昭示着公平、努力与道德，那是给所有人看的；另一套则巧妙地藏在复杂的金融工具背后，只在特定的人群中默然流传，关乎着杠杆、稀缺与人性的洞察。
 
 古有神农尝百草今有万辞王进一百个电子厂，当探厂博主秒跑路我们大多数人都在第一套规则里努力挣扎，循规蹈矩地生活；而他们，则在第二套规则里游刃有余，风生水起。这就是世界的真相——不管你爱不爱听，它都安静地在那里，从未改变。
 
