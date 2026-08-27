@@ -12,3 +12,10 @@
 * 可汗学院：https://zh.khanacademy.org/math
 * K12：https://www.ck12.org/student
 * IXL Math：https://www.ixl.com/math
+
+数理化仿真
+
+* https://phet.colorado.edu
+* https://www.labxchange.org
+* https://www.geogebra.org
+* https://chemcollective.org
