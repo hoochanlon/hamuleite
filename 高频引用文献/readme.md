@@ -21,7 +21,6 @@ Foucault, M. (2007). *Security, territory, population: Lectures at the Collège 
 
 Foucault, M. (2008). *The birth of biopolitics: Lectures at the Collège de France, 1978–1979* (G. Burchell, Trans.). Palgrave Macmillan. (Original work published 2004) [[Philpaper]](https://philpapers.org/rec/GUDMF)
 
-
 Goffman, E. (1959). The presentation of self in everyday life. Doubleday. [[Sociologiac]](https://sociologiac.net/2023/08/31/the-presentation-of-self-in-everyday-life-erving-goffman/)
 
 Goffman, E. (1963). *Stigma: Notes on the management of spoiled identity*. Prentice-Hall. [[Vdoc Pub]](https://vdoc.pub/documents/stigma-notes-on-the-management-of-spoiled-identity-3v4l0gh6s30g)
@@ -35,6 +34,8 @@ Habermas, J. (1984). *The theory of communicative action: Reason and the rationa
 Bakhtin, M. M. (1984). *Rabelais and his world* (H. Iswolsky, Trans.). Indiana University Press. [[Monoskop]](https://monoskop.org/File:Bakhtin_Mikhail_Rabelais_and_His_World_1984.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/9ZjKGMVYj0/%E5%B7%B4%E8%B5%AB%E9%87%91%E5%85%A8%E9%9B%86.html?dsource=recommend)
 
 Taylor, C. (1994). The politics of recognition. In A. Gutmann (Ed.), *Multiculturalism: Examining the politics of recognition* (pp. 25–73). Princeton University Press. [[PDF]](https://presencial.moodle.ufsc.br/pluginfile.php/1675431/mod_resource/content/0/Taylor%2C%20Charles%3B%20Gutmann%2C%20Amy%20%28Ed%29.%20Multiculturalism.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/5jJw0xPdvp/%E6%96%87%E5%8C%96%E4%B8%8E%E5%85%AC%E5%85%B1%E6%80%A7.html)
+
+Stigler, G. J. (1971). The theory of economic regulation. *The Bell Journal of Economics and Management Science, 2*(1), 3–21. https://doi.org/10.2307/3003160 [[PDF]](https://ios23.classes.ryansafner.com/files/readings/Stigler-1971.pdf)
 
 Weber, M. (1946). Science as a vocation. In H. H. Gerth & C. Wright Mills (Eds. & Trans.), *From Max Weber: Essays in sociology* (pp. 129–156). Oxford University Press. (Original work published 1919) [[PDF]](https://sociology.sas.upenn.edu/sites/default/files/Weber-Science-as-a-Vocation.pdf), [[Z-Library(CN)]](https://z-library.im/book/825xzbgxJg/%E5%AD%A6%E6%9C%AF%E4%B8%8E%E6%94%BF%E6%B2%BB.html)
 
