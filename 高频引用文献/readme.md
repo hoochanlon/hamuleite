@@ -4,8 +4,6 @@ Arendt, H. (1963). *Eichmann in Jerusalem: A report on the banality of evil*. Vi
 
 Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.), *Handbook of theory and research for the sociology of education* (pp. 241–258). Greenwood. [[PDF]](https://www.ucg.ac.me/skladiste/blog_9155/objava_66783/fajlovi/Bourdieu%20The%20Forms%20of%20Capital%20_1_.pdf)
 
-Bourdieu, P. (1986). The forms of capital. In J. G. Richardson (Ed.), *Handbook of theory and research for the sociology of education* (pp. 241–258). Greenwood. [[PDF]](https://publish.illinois.edu/crittheory/files/2023/01/Bourdieu-The-Forms-of-Capital.pdf)
-
 Bourdieu, P., & Passeron, J.-C. (1990). *Reproduction in education, society and culture* (R. Nice, Trans.). Sage. (Original work published 1970) [[Scribd]](https://www.scribd.com/doc/135073354/Bourdieau-reproduction-in-Education-Society)
 
 Bourdieu, P. (1989). Social space and symbolic power. *Sociological Theory, 7*(1), 14–25. https://doi.org/10.2307/202060 [[Scihub]](https://sci-hub.st/10.2307/202060)
