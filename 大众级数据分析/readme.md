@@ -4,6 +4,8 @@
 
 女学学志（台湾）：https://jwgs.psc.ntu.edu.tw （tags: 社会学女性学, 女性研究）
 
+当代中国研究：https://www.modernchinastudies.org
+
 彩票实验室：https://cpglsys.com
 
 各类PDF杂文：https://morepdf.online/
