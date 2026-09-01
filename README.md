@@ -31,6 +31,9 @@
 
 ## List
 
+> [!note]
+> fq-book、w3-goto-world，还有这些文件夹的命名，想起来已经是 2018 年的事了。那时我还是学生，也经历过一年多的失业。从学校出来走进社会后，一路被现实教育、被社会“毒打”，其中的滋味，懂的都懂。也正因为如此，我一直格外重视和关注人文社科文献，以及跨学科的应用与实践。
+
 - **[19960101-20XXMMDD](./19960101-20XXMMDD/)** — 自用话题库，社会现象、人文社科议题的链接与文章聚合
 - **[冲出你的窗口](./有趣的/冲出你的窗口)** — ss、ssr、vpn 等相关内容 
 - **[有趣的](./有趣的/)** — 社会学文献信息库，含学术期刊、图书馆导航、数据分析资源、书籍搜索与题库等
@@ -44,6 +47,8 @@
 
 
 ## Contributors
+
+最后，感谢所有参与 PR 的朋友。
 
 <a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
