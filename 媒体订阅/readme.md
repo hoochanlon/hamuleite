@@ -56,6 +56,8 @@
 * https://theinitium.com 端传媒
 * https://terminus2049.github.io 端点星
 * https://www.outsightchina.com 看鉴中国
+* https://archive.bedtime.news 睡前消息文稿
+* https://mdark.org 参考信息文稿
 
 
 ### TG
