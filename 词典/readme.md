@@ -42,7 +42,12 @@
  * https://www.sampan.org
  * https://web.duoreader.cn
  * https://kmediashare.com
- * 
+
+海外书籍：
+ * https://manybooks.net
+ * https://www.gutenberg.org
+ * https://en.booksee.org
+
 
 扩展阅读：
 
