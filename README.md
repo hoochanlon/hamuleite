@@ -11,19 +11,20 @@
 <img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
 <a href="http://tul.blog.ntu.edu.tw/archives/19642">
   <img align="right" width="260" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
-</a>
-<a href="https://toaj.stpi.niar.org.tw/">
-  <img  width="260" alt="tw_u" src="https://github.com/user-attachments/assets/f521ba8a-a6e6-494c-97a7-883d8aebfa4c" />
-</a>
+</a> 
+<p href="https://toaj.stpi.niar.org.tw/">
+  <img width="260" alt="tw_u" src="https://github.com/user-attachments/assets/f521ba8a-a6e6-494c-97a7-883d8aebfa4c" />
+</p>
 <br>
 
+知识，本就不该被束之高阁。把学术带到每一个角落：给中小学生以启蒙，给底层劳动者以智慧；我们致力于知识面前人人平等，消除因社会阶级、家庭资本所导致的不可及的信息差，成为每个人触手可及的光。
 
 ## 导读
 
 > [!tip]
 > ***The popularization of social science should move beyond “knowing” toward understanding the underlying logic of society, the dynamics of history, and the conditions of social transformation and revolution. It should help young people interpret the world critically and enable workers to recognize their structural position, develop agency, and turn individual awakening into collective power for social emancipation and revolutionary change.***
 
-知识，本就不该被束之高阁。把学术带到每一个角落：给中小学生以启蒙，给底层劳动者以智慧；我们致力于知识面前人人平等，消除因社会阶级、家庭资本所导致的不可及的信息差，成为每个人触手可及的光。
+人文社会科学不应沦为技术理性的工具，也不应只是为所谓“上层目标”服务的附庸。一个真正健全的社会，既需要理工科推动物质进步，也需要人文社科回答“为何发展”以及“发展为了谁”。我们不能只重视理工科的技术产出，而忽视人文社科的价值。否则，人就可能沦为技术和权力体系中的“工具人”，而人文社科也会被压缩为服务既定目标的附属工具。
 
 
 ## 列表
