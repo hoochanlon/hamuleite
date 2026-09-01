@@ -6,6 +6,8 @@
 
 菜市场政治学（台湾）：https://whogovernstw.org
 
+巷仔口社會學：https://twstreetcorner.org 
+
 社会学研究库：https://sociology.ssap.com.cn
 
 当代中国研究：https://www.modernchinastudies.org
