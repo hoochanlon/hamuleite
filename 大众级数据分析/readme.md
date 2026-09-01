@@ -16,6 +16,8 @@
 
 睡前消息文稿：https://archive.bedtime.news/
 
+参考信息文稿：https://mdark.org
+
 自由档案馆：https://iwantrun.com
 
 彩票实验室：https://cpglsys.com
