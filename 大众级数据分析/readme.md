@@ -12,6 +12,8 @@ TheoryHub 理论中心：https://open.ncl.ac.uk/academic-theories
 
 乐词网：https://terms.naer.edu.tw （台湾）
 
+找词找句：https://www.shenyandayi.com
+
 安娜档案馆：https://annas-archive.is
 
 Scihub：https://sci-hub.st
