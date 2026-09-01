@@ -14,6 +14,8 @@
 
 民间档案馆：https://minjian-danganguan.org/zh/archive
 
+睡前消息文稿：https://archive.bedtime.news/
+
 自由档案馆：https://iwantrun.com
 
 彩票实验室：https://cpglsys.com
