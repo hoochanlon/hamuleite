@@ -1,3 +1,27 @@
+### 百科浏览
+
+大英帝国百科全书：https://www.britannica.com
+
+世界历史百科全书：https://www.worldhistory.org
+
+斯坦福哲学百科全书：https://plato.stanford.edu/contents.html
+
+TheoryHub 理论中心：https://open.ncl.ac.uk/academic-theories
+
+科学名词查询网：http://www.sciref.net
+
+乐词网：https://terms.naer.edu.tw （台湾）
+
+安娜档案馆：https://annas-archive.is
+
+Scihub：https://sci-hub.st
+
+Z库：https://z-library.sk
+
+lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
+
+全球知名的思维模型科普网站：https://fs.blog/mental-models
+
 ### 站点浏览
 
 readhub：https://readhub.cn
@@ -25,26 +49,6 @@ readhub：https://readhub.cn
 彩票实验室：https://cpglsys.com
 
 各类PDF杂文：https://morepdf.online
-
-大英帝国百科全书：https://www.britannica.com
-
-世界历史百科全书：https://www.worldhistory.org
-
-斯坦福哲学百科全书：https://plato.stanford.edu/contents.html
-
-TheoryHub 理论中心：https://open.ncl.ac.uk/academic-theories
-
-科学名词查询网：http://www.sciref.net
-
-安娜档案馆：https://annas-archive.is
-
-Scihub：https://sci-hub.st
-
-Z库：https://z-library.sk
-
-lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
-
-全球知名的思维模型科普网站：https://fs.blog/mental-models
 
 思辨录：https://mind-guards.com
 
