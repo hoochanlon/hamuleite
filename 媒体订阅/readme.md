@@ -53,6 +53,9 @@
 * https://tc.keguanjp.com 客观日本
 * https://www.kingendai.com 日本近代资料刊行会
 * https://linguasinica.substack.com linguasinica
+* https://theinitium.com 端传媒
+* https://terminus2049.github.io 端点星
+* https://www.outsightchina.com 看鉴中国
 
 
 ### TG
