@@ -1,6 +1,7 @@
 * 日本台湾词典：
   * https://tio.freemdict.com/jp
   * https://sutian.moe.edu.tw/zh-hant/
+  * 乐词网：https://terms.naer.edu.tw
 
 * 图解词典（综合或名词）：
    * https://dictionary.langeek.co/en-ZH 、 https://languagetools.biz
@@ -36,6 +37,7 @@
  
 * 句子词典
   * https://speechling.com/zh/dictionary/english/all
+
 
 扩展阅读
 
