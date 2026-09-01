@@ -52,6 +52,7 @@
 * https://www.twreporter.org 报道者
 * https://tc.keguanjp.com 客观日本
 * https://www.kingendai.com 日本近代资料刊行会
+* https://linguasinica.substack.com linguasinica
 
 
 ### TG
