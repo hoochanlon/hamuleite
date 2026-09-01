@@ -8,7 +8,7 @@
 
 彩票实验室：https://cpglsys.com
 
-各类PDF杂文：https://morepdf.online/
+各类PDF杂文：https://morepdf.online
 
 大英帝国百科全书：https://www.britannica.com
 
@@ -31,6 +31,8 @@ lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 全球知名的思维模型科普网站：https://fs.blog/mental-models
 
 思辨录：https://mind-guards.com
+
+拾光库：https://shiguangbaoku.com
 
 年度访问量最大的网站：https://zh.semrush.com/trending-websites
 
