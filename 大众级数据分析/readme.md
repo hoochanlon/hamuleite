@@ -4,6 +4,8 @@
 
 女学学志（台湾）：https://jwgs.psc.ntu.edu.tw （tags: 社会学女性学, 女性研究）
 
+菜市场政治学（台湾）：https://whogovernstw.org
+
 社会学研究库：https://sociology.ssap.com.cn
 
 当代中国研究：https://www.modernchinastudies.org
