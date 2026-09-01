@@ -1,6 +1,6 @@
 # ***<ruby>城中村哈姆雷特<rp>（</rp><rt>学术资源信息整合库</rt><rp></rp></ruby>***
 
-## 简介
+## Abstract
 
 > [!important]
 > **该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！中国用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！**
@@ -19,15 +19,17 @@
 
 知识，本就不该被束之高阁。把学术带到每一个角落：给中小学生以启蒙，给底层劳动者以智慧；我们致力于知识面前人人平等，消除因社会阶级、家庭资本所导致的不可及的信息差，成为每个人触手可及的光。
 
-## 导读
+## Introduction
 
 > [!tip]
 > ***The popularization of social science should move beyond “knowing” toward understanding the underlying logic of society, the dynamics of history, and the conditions of social transformation and revolution. It should help young people interpret the world critically and enable workers to recognize their structural position, develop agency, and turn individual awakening into collective power for social emancipation and revolutionary change.***
 
-人文社会科学（以下简称文科）不应沦为技术理性的工具，也不应只是为所谓“上层目标”服务的附庸。一个真正健全的社会，既需要理工科推动物质进步，也需要文科回答“为何发展”以及“发展为了谁”。我们不能只重视理工科的技术产出，而忽视文科的价值。否则，人就可能沦为技术和权力体系中的“工具人”，而文科也会被压缩为服务既定目标的附属工具。
+人文社会科学（以下简称文科）不应沦为技术理性的工具，也不应只是为所谓“上层目标”服务的附庸。一个真正健全的社会，既需要理工科推动物质进步，也需要文科回答“为何发展”以及“发展为了谁”。
+
+我们不能只重视理工科的技术产出，而忽视文科的价值。否则，人就可能沦为技术和权力体系中的“工具人”，而文科也会被压缩为服务既定目标的附属工具。
 
 
-## 列表
+## List
 
 - **[19960101-20XXMMDD](./19960101-20XXMMDD/)** — 自用话题库，社会现象、人文社科议题的链接与文章聚合
 - **[冲出你的窗口](./有趣的/冲出你的窗口)** — ss、ssr、vpn 等相关内容 
@@ -41,7 +43,7 @@
 - **[2077](./2077/)** — 杂项资源：出版社下载、工具网站、社会议题等
 
 
-fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。最后感谢参与 PR 的所有人。
+## Contributors
 
 <a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
