@@ -24,7 +24,7 @@
 > [!tip]
 > ***The popularization of social science should move beyond “knowing” toward understanding the underlying logic of society, the dynamics of history, and the conditions of social transformation and revolution. It should help young people interpret the world critically and enable workers to recognize their structural position, develop agency, and turn individual awakening into collective power for social emancipation and revolutionary change.***
 
-人文社会科学不应沦为技术理性的工具，也不应只是为所谓“上层目标”服务的附庸。一个真正健全的社会，既需要理工科推动物质进步，也需要人文社科回答“为何发展”以及“发展为了谁”。我们不能只重视理工科的技术产出，而忽视人文社科的价值。否则，人就可能沦为技术和权力体系中的“工具人”，而人文社科也会被压缩为服务既定目标的附属工具。
+人文社会科学（以下简称文科）不应沦为技术理性的工具，也不应只是为所谓“上层目标”服务的附庸。一个真正健全的社会，既需要理工科推动物质进步，也需要文科回答“为何发展”以及“发展为了谁”。我们不能只重视理工科的技术产出，而忽视文科的价值。否则，人就可能沦为技术和权力体系中的“工具人”，而文科也会被压缩为服务既定目标的附属工具。
 
 
 ## 列表
