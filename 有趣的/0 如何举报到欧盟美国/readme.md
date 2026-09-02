@@ -4,8 +4,8 @@
 
 首先打开这个欧盟委员会[投诉专题页面](https://competition-policy.ec.europa.eu/state-aid/complaints_en)，下载里面的一个doc文档，然后按照doc文档里面的要求，填写相关信息，doc文档及中英文对照表见附件，举报的公司不在欧盟列表也可以举报，只需要举报对应公司上游在欧盟国家有供应链合作关系的公司就行，电子邮箱里面可以包含相关公司的图片附件及相关文件，编辑好doc文档后把文档用电子邮箱的方式发送到欧盟委员会邮箱，欧洲工会联合会邮箱也可以发送一份，推荐使用Proton邮箱和Gmail邮箱，doc文档里面也可以申明使用匿名的方式投诉，您的投诉结果将在15个工作日内收到投诉结果。
 
-* 欧盟委员会邮箱[stateaidgreffe@ec.europa.eu](http://stateaidgreffe@ec.europa.eu/)
-* 欧洲工会联合会邮箱[etuc@etuc.org](http://etuc@etuc.org/)
+* 欧盟委员会邮箱：[stateaidgreffe@ec.europa.eu](http://stateaidgreffe@ec.europa.eu/)
+* 欧洲工会联合会邮箱：[etuc@etuc.org](http://etuc@etuc.org/)
 * 欧盟委员会官网：https://competition-policy.ec.europa.eu/index_en
 * 匿名投诉页面：https://comp-eu.whistleblowernetwork.net/wb;eFormGuid=dae1505a-c690-4bf0-b979-981e70c88bb4;siteId=20859;folderId=null
 * 美国企业名录：https://www.manta.com/
