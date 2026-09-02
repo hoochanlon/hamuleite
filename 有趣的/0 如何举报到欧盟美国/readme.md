@@ -1,7 +1,8 @@
 # 举报教程
 
 * http://archive.today/EJ0dT
-* https://europeantimes.news/zh-CN/2026/05/%E6%AC%A7%E6%B4%B2%E7%9B%91%E5%AF%9F%E5%91%98%E6%8A%95%E8%AF%89%E6%8C%87%E5%8D%97/
+* http://archive.today/qiifc
+* [europeantimes - 欧洲监察专员投诉指南](https://europeantimes.news/zh-CN/2026/05/%E6%AC%A7%E6%B4%B2%E7%9B%91%E5%AF%9F%E5%91%98%E6%8A%95%E8%AF%89%E6%8C%87%E5%8D%97/)
 
 ---
 
