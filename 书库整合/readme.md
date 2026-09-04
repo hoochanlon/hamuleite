@@ -7,27 +7,27 @@
 
 ### 表1
 
-| 序号 | 网站/项目            | 类型或用途                    | 链接                                                         |
-| ---: | -------------------- | ----------------------------- | ------------------------------------------------------------ |
-|    1 | Noba Project         | 心理学及社会科学开放教材      | [访问网站](https://nobaproject.com)                          |
-|    2 | OER Commons          | 开放教育资源平台              | [访问网站](https://oercommons.org)                           |
-|    3 | Lardbucket Books     | 免费开放教材                  | [访问网站](https://2012books.lardbucket.org)                 |
-|    4 | PDF Books World      | 免费 PDF 电子书               | [访问网站](https://www.pdfbooksworld.com/genres)             |
-|    5 | FlipHTML5            | 在线翻页电子书/文档平台       | [访问网站](https://fliphtml5.com)                            |
-|    6 | Free-eBooks.net      | 免费电子书资源                | [访问网站](https://www.free-ebooks.net)                      |
-|    7 | BookScouter          | 免费大学教材及教材资源推荐    | [访问页面](https://bookscouter.com/blog/free-college-textbooks) |
-|    8 | Saylor Academy       | 免费在线课程与开放教材        | [访问网站](https://www.saylor.org)                           |
-|    9 | DZKBXZ               | 中文学习资料/题库资源         | [访问网站](https://dzkbxz.com)                               |
-|   10 | Shijuan.org          | 试卷与练习题资源              | [访问网站](https://shijuan.org)                              |
-|   11 | Shijuan1             | 试卷与考试资料资源            | [访问网站](https://www.shijuan1.com)                         |
-|   12 | Examcoo              | 在线考试、题库与练习平台      | [访问网站](https://www.examcoo.com)                          |
-|   13 | Gaokao Math          | 高考数学资料与代码项目        | [GitHub 项目](https://github.com/deekur/gaokaomath)          |
-|   14 | Urongda              | 学习/考试相关资料资源         | [访问网站](https://t.urongda.com)                            |
-|   15 | GK100                | 高考及教育信息资源            | [访问网站](https://www.gk100.com)                            |
-|   16 | Yankong              | 学习/考试资料资源             | [访问网站](https://www.yankong.org)                          |
-|   17 | SurviveSJTU Manual   | 上海交通大学生存指南          | [GitHub 项目](https://github.com/SurviveSJTU/SurviveSJTUManual) |
-|   18 | Yabook               | 當代學生生存手冊              | [访问页面](https://yabook.org/post/14861.html)               |
-|   19 | 哔哩哔哩空间：咕噜耄 | 视频课程/有用的社会生活小常识 | [访问空间](https://space.bilibili.com/2930404)               |
+| 分类               | 网站                                                         | 资源特点                                                     | 适用场景                                       |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
+| 开放教材与学术资源 | [Noba Project](https://nobaproject.com)                      | 提供心理学及社会科学领域的免费开放教材，内容由学者编写，适合系统学习 | 心理学、社会科学课程学习；查阅教材与教学资料   |
+| 开放教育资源平台   | [OER Commons](https://oercommons.org)                        | 汇集全球开放课程、教材、课件、习题和教学资源                 | 教师备课、学生自学、寻找课程辅助材料           |
+| 免费开放教材       | [Lardbucket Books](https://2012books.lardbucket.org)         | 提供多种大学课程的免费开放教材，涵盖商业、经济、社会科学等领域 | 大学课程学习；下载或在线阅读教材               |
+| 免费 PDF 电子书    | [PDF Books World](https://www.pdfbooksworld.com/genres)      | 提供公版文学、经典作品及其他类型的免费 PDF 电子书            | 阅读世界名著；获取适合打印或下载的电子书       |
+| 在线电子书平台     | [FlipHTML5](https://fliphtml5.com)                           | 采用在线翻页形式展示电子书、杂志、宣传册和文档               | 浏览数字出版物；查看电子杂志、手册和文档       |
+| 免费电子书资源     | [Free-eBooks.net](https://www.free-ebooks.net)               | 提供小说、非虚构作品、学术及兴趣类免费电子书                 | 休闲阅读；寻找英语电子书和专业读物             |
+| 教材资源推荐       | [BookScouter](https://bookscouter.com/blog/free-college-textbooks) | 整理免费大学教材、开放教材和教材获取渠道                     | 大学生寻找课程教材；降低教材购买成本           |
+| 在线课程与开放教材 | [Saylor Academy](https://www.saylor.org)                     | 提供免费的在线课程、课程材料和开放教材，覆盖多个大学学科     | 自主学习；补充大学课程；进行职业技能学习       |
+| 中文学习资料       | [DZKBXZ](https://dzkbxz.com)                                 | 提供中文学习资料、题库及相关教育资源                         | 中小学学习；复习、刷题和准备考试               |
+| 试卷与练习题       | [Shijuan.org](https://shijuan.org)                           | 汇集各类试卷、同步练习和考试资料                             | 课后练习；阶段复习；教师选题与组卷             |
+| 试卷与考试资料     | [Shijuan1](https://www.shijuan1.com)                         | 提供中小学试卷、考试题目和复习资料                           | 日常测验；期中期末复习；备考训练               |
+| 在线考试与题库     | [Examcoo](https://www.examcoo.com)                           | 支持在线考试、题库练习、试卷制作和成绩管理                   | 在线刷题；模拟考试；教师组织测验               |
+| 高考数学资料与代码 | [Gaokao Math](https://github.com/deekur/gaokaomath)          | GitHub 上的高考数学资料及相关代码项目，便于查阅和整理数学内容 | 高考数学复习；数学资料整理；编程与教育项目参考 |
+| 学习与考试资料     | [Urongda](https://t.urongda.com)                             | 提供学习、考试及相关资料信息                                 | 查找备考资料；辅助考试复习                     |
+| 高考及教育信息     | [GK100](https://www.gk100.com)                               | 提供高考资讯、志愿填报、院校专业和教育信息                   | 高考备考；了解招生政策；志愿填报参考           |
+| 学习与考试资料     | [Yankong](https://www.yankong.org)                           | 提供学习资料、考试信息及相关教育内容                         | 学习资料检索；考试复习与信息查询               |
+| 高校生存指南       | [SurviveSJTU Manual](https://github.com/SurviveSJTU/SurviveSJTUManual) | 上海交通大学学生整理的校园生活、学习、办事和生存指南         | 新生入学；校园生活适应；了解学校办事流程       |
+| 学生生活指南       | [Yabook](https://yabook.org/post/14861.html)                 | 提供面向当代学生的学习、生活及校园经验分享                   | 学生生活参考；适应大学环境；获取实用建议       |
+| 视频课程与生活常识 | [哔哩哔哩空间：咕噜耄](https://space.bilibili.com/2930404)   | 分享视频课程及社会生活实用知识，内容形式直观易懂             | 观看课程视频；学习社会生活常识；获取实用技巧   |
 
 
 ### 表2

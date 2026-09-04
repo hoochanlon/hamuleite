@@ -2,6 +2,7 @@
 
 > [!important]
 > 报告由 Manus AI 整理。
+> 附：[我们如何理解这个世界 - 豆瓣读书](https://book.douban.com/subject/37930972/)
 
 ## 一、报告范围与结论
 
