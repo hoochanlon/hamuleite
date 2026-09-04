@@ -11,6 +11,7 @@
 * 阮一峰的博客：https://www.ruanyifeng.com/blog/index.html
 * 新加坡人工智能研究员 李志轩：https://zhixuanli.github.io
 * tsai002：https://tsai002.github.io/
+* Dana C. Ernst：https://danaernst.com/blog/
 
 
 领域
@@ -35,3 +36,7 @@
 * https://boredreading.com/top-blogs/sociology
 * https://weblog.feedspot.com/sociology-blogs-in-us
 * https://tsai002.github.io/aisixiang/
+
+
+* 为什么现在很多人推崇国外原版教材？ - 撸穿肠的回答 - 知乎
+https://www.zhihu.com/question/1887791840390000908/answer/1919736567884419147
