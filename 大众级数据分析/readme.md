@@ -15,6 +15,8 @@ TheoryHub 理论中心：https://open.ncl.ac.uk/academic-theories
 
 找词找句：https://www.shenyandayi.com
 
+台湾华文电子书库：https://taiwanebook.ncl.edu.tw/zh-tw
+
 lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 
 全球知名的思维模型科普网站：https://fs.blog/mental-models
