@@ -2,7 +2,35 @@
 > 思维方法收集：
 > * [全部基础讲义和解题思路合集下载 - rq cen的文章 - 知乎](https://zhuanlan.zhihu.com/p/600454340)
 > * [有哪些高质量的自学网站？ - 剥茧的回答 - 知乎](https://www.zhihu.com/question/41476832/answer/2033326637509502024)
+> * [有用的社会生活小常识 - 咕噜耄 - B站](https://space.bilibili.com/2930404)
 
+
+### 表1
+
+| 序号 | 网站/项目            | 类型或用途                    | 链接                                                         |
+| ---: | -------------------- | ----------------------------- | ------------------------------------------------------------ |
+|    1 | Noba Project         | 心理学及社会科学开放教材      | [访问网站](https://nobaproject.com)                          |
+|    2 | OER Commons          | 开放教育资源平台              | [访问网站](https://oercommons.org)                           |
+|    3 | Lardbucket Books     | 免费开放教材                  | [访问网站](https://2012books.lardbucket.org)                 |
+|    4 | PDF Books World      | 免费 PDF 电子书               | [访问网站](https://www.pdfbooksworld.com/genres)             |
+|    5 | FlipHTML5            | 在线翻页电子书/文档平台       | [访问网站](https://fliphtml5.com)                            |
+|    6 | Free-eBooks.net      | 免费电子书资源                | [访问网站](https://www.free-ebooks.net)                      |
+|    7 | BookScouter          | 免费大学教材及教材资源推荐    | [访问页面](https://bookscouter.com/blog/free-college-textbooks) |
+|    8 | Saylor Academy       | 免费在线课程与开放教材        | [访问网站](https://www.saylor.org)                           |
+|    9 | DZKBXZ               | 中文学习资料/题库资源         | [访问网站](https://dzkbxz.com)                               |
+|   10 | Shijuan.org          | 试卷与练习题资源              | [访问网站](https://shijuan.org)                              |
+|   11 | Shijuan1             | 试卷与考试资料资源            | [访问网站](https://www.shijuan1.com)                         |
+|   12 | Examcoo              | 在线考试、题库与练习平台      | [访问网站](https://www.examcoo.com)                          |
+|   13 | Gaokao Math          | 高考数学资料与代码项目        | [GitHub 项目](https://github.com/deekur/gaokaomath)          |
+|   14 | Urongda              | 学习/考试相关资料资源         | [访问网站](https://t.urongda.com)                            |
+|   15 | GK100                | 高考及教育信息资源            | [访问网站](https://www.gk100.com)                            |
+|   16 | Yankong              | 学习/考试资料资源             | [访问网站](https://www.yankong.org)                          |
+|   17 | SurviveSJTU Manual   | 上海交通大学生存指南          | [GitHub 项目](https://github.com/SurviveSJTU/SurviveSJTUManual) |
+|   18 | Yabook               | 當代學生生存手冊              | [访问页面](https://yabook.org/post/14861.html)               |
+|   19 | 哔哩哔哩空间：咕噜耄 | 视频课程/有用的社会生活小常识 | [访问空间](https://space.bilibili.com/2930404)               |
+
+
+### 表2
 
 
 | 分类 | 网站 | 资源特点 | 适用场景 |
