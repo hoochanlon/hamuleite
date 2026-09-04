@@ -113,10 +113,10 @@ Berg、Ostry 和 Zettelmeyer 的研究发现，增长持续时间与收入分配
 2. **所有发展上行阶段都不超过百年。** 这一判断过强，因为长期技术积累、制度演进、国家实力增长和人均收入趋势都可能跨越数百年。
 
 
-[1]: https://press.princeton.edu/books/hardcover/9780691136967/secular-cycles "Peter Turchin and Sergey A. Nefedov, *Secular Cycles*"
+[^1]: https://press.princeton.edu/books/hardcover/9780691136967/secular-cycles "Peter Turchin and Sergey A. Nefedov, *Secular Cycles*"
 
-[2]: https://doi.org/10.1007/s10887-005-4712-0 "Ricardo Hausmann, Lant Pritchett, and Dani Rodrik, “Growth Accelerations”"
+[^2]: https://doi.org/10.1007/s10887-005-4712-0 "Ricardo Hausmann, Lant Pritchett, and Dani Rodrik, “Growth Accelerations”"
 
-[3]: https://doi.org/10.1093/wber/14.2.221 "Lant Pritchett, “Understanding Patterns of Economic Growth”"
+[^3]: https://doi.org/10.1093/wber/14.2.221 "Lant Pritchett, “Understanding Patterns of Economic Growth”"
 
-[4]: https://doi.org/10.1016/j.jdeveco.2011.08.002 "Andrew Berg, Jonathan D. Ostry, and Jeromin Zettelmeyer, “What Makes Growth Sustained?”"
+[^4]: https://doi.org/10.1016/j.jdeveco.2011.08.002 "Andrew Berg, Jonathan D. Ostry, and Jeromin Zettelmeyer, “What Makes Growth Sustained?”"
