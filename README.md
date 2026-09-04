@@ -48,8 +48,9 @@
 
 ## Contributors
 
+> [!important]
+> 可使用 https://contrib.rocks 生成 Contributors 图表。由于 git 历史过大，导致生成内容缺失，故不再展示。
+
 最后，感谢所有参与 PR 的朋友。
 
-<a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
-</a>
+
