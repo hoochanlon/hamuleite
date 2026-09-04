@@ -11,7 +11,7 @@
 - [Peter Turchin，《战争与和平与战争》（*War and Peace and War: The Rise and Fall of Empires*）](https://www.penguinrandomhouse.com/books/299306/war-and-peace-and-war-by-peter-turchin/)：讨论战争、国家形成、帝国兴衰与社会整合。
 - [Peter Turchin 与 Sergey A. Nefedov，《世俗周期》（*Secular Cycles*）](https://press.princeton.edu/books/hardcover/9780691136967/secular-cycles)：通过英格兰、法国、俄罗斯及古罗马等案例，定量研究人口、价格、实际工资、精英、国家财政和社会政治不稳定之间的长期周期。
 
-Peter Turchin 与 Sergey Nefedov 在《Secular Cycles》（中译本《百年周期》）中，通过对英格兰、法国、俄罗斯以及古罗马等前现代农业社会的定量研究，提出了一种“世纪量级”的结构性周期。其基本逻辑链条如下：[1]
+Peter Turchin 与 Sergey Nefedov 在《Secular Cycles》（中译本《百年周期》）中，通过对英格兰、法国、俄罗斯以及古罗马等前现代农业社会的定量研究，提出了一种“世纪量级”的结构性周期。其基本逻辑链条如下：[^1]
 
 1. 政权建立之后，大规模战争显著减少。
 2. 人口逐步恢复，土地开发扩大。
@@ -50,9 +50,9 @@ Peter Turchin 与 Sergey Nefedov 在《Secular Cycles》（中译本《百年周
 
 这可以解释为什么日本、韩国和中国等经济体都出现了相似现象：**追赶可以很快，但追赶红利不是无限的。**
 
-Hausmann、Pritchett 和 Rodrik 对增长加速的研究表明，增长加速往往能够持续多年，但多数加速阶段最终会终止；该研究没有发现一个稳定的、可以持续百年的普遍增长机制。[2]
+Hausmann、Pritchett 和 Rodrik 对增长加速的研究表明，增长加速往往能够持续多年，但多数加速阶段最终会终止；该研究没有发现一个稳定的、可以持续百年的普遍增长机制。[^2]
 
-Pritchett 则指出，发展中国家的典型增长路径不是平滑上升，而是“高增长—停滞—崩溃—再启动”。[3]
+Pritchett 则指出，发展中国家的典型增长路径不是平滑上升，而是“高增长—停滞—崩溃—再启动”。[^3]
 
 ### 第二主因：资本边际收益递减
 
@@ -99,7 +99,7 @@ Pritchett 则指出，发展中国家的典型增长路径不是平滑上升，�
 - 社会保障和税收压力上升；
 - 地区之间的发展差距扩大。
 
-Berg、Ostry 和 Zettelmeyer 的研究发现，增长持续时间与收入分配、宏观稳定、政治制度、出口结构和外部冲击有关。[4] 这意味着增长阶段的终止通常不是单纯的技术问题，而是经济结构与政治经济结构共同作用的结果。
+Berg、Ostry 和 Zettelmeyer 的研究发现，增长持续时间与收入分配、宏观稳定、政治制度、出口结构和外部冲击有关。[^4] 这意味着增长阶段的终止通常不是单纯的技术问题，而是经济结构与政治经济结构共同作用的结果。
 
 ## 结论
 
