@@ -41,6 +41,12 @@ moodys:
 标普（S&P Global Ratings）:
 * https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/12229402
 
+摩根大通
+* https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/trojan-fire-horse.pdf
+
+野村
+* https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
+
 
 ### 传媒研究
 
