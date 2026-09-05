@@ -35,17 +35,13 @@ Citron Research：
 * https://fortune.com/asia/2024/03/26/andrew-left-citron-research-founder-banned-hong-kong-trading-warning-china-evergrande/
 * https://cdn.gmtresearch.com/public-ckfinder/Short-sellers/Citron%20Research/Evergrande%20Citron%20presentation.pdf
 
-moodys:
-* https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-market-crisis.html
+moodys: https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-market-crisis.html
 
-标普（S&P Global Ratings）:
-* https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/12229402
+标普（S&P Global Ratings）: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/12229402
 
-摩根大通
-* https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/trojan-fire-horse.pdf
+摩根大通：https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/trojan-fire-horse.pdf
 
-野村
-* https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
+野村经济：https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
 
 
 ### 传媒研究
