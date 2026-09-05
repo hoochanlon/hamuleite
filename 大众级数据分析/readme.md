@@ -44,7 +44,10 @@ moodys: https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-
 野村经济：https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
 
 > [!note]
-> [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
+> 值得深思
+> * [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
+> * [如何看待北大教授张丹丹称「灵活就业本身就是一种福利」，这是现代版“何不食肉糜”吗？ - 回马枪战斗团的回答 - 知乎](https://www.zhihu.com/question/2073662402017628359/answer/2074545170494837719)
+> * 统计谬误参考：选取错误的样本，选择错误的基数，使用正确的计算，得出荒谬的结论。
 
 ### 传媒研究
 
