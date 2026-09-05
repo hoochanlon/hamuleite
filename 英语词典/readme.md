@@ -2,6 +2,8 @@
   * https://tio.freemdict.com/jp
   * https://sutian.moe.edu.tw/zh-hant/
   * https://terms.naer.edu.tw
+  * https://terms.naer.edu.tw （台湾）
+  * https://www.shenyandayi.com
 
 图解词典（综合或名词）：
    * https://dictionary.langeek.co/en-ZH 、 https://languagetools.biz
@@ -25,13 +27,13 @@
   * https://www.oxfordowl.co.uk
   * https://www.freechildrenstories.com
   * https://www.storynory.com
- 
+
 听资讯：
   * https://www.snexplores.org
   * https://www.sciencejournalforkids.org
   * https://lingvo.club
   * https://www.npr.org
- 
+
 语法校准 & 句子词典：
   * https://ludwig.guru/
   * https://speechling.com/zh/dictionary/english/all

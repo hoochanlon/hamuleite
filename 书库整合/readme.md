@@ -3,6 +3,7 @@
 > * [全部基础讲义和解题思路合集下载 - rq cen的文章 - 知乎](https://zhuanlan.zhihu.com/p/600454340)
 > * [有哪些高质量的自学网站？ - 剥茧的回答 - 知乎](https://www.zhihu.com/question/41476832/answer/2033326637509502024)
 > * [有用的社会生活小常识 - 咕噜耄 - B站](https://space.bilibili.com/2930404)
+> * [利用学生、教职工身份可以享受到的相关学生优惠 - ivmm/Student-resources ](https://github.com/ivmm/Student-resources)
 
 
 ### 表1

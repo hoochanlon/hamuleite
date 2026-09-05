@@ -9,17 +9,75 @@
 
 TheoryHub 理论中心：https://open.ncl.ac.uk/academic-theories
 
-科学名词查询网：http://www.sciref.net
-
-乐词网：https://terms.naer.edu.tw （台湾）
-
-找词找句：https://www.shenyandayi.com
-
-台湾华文电子书库：https://taiwanebook.ncl.edu.tw/zh-tw
-
 lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 
 全球知名的思维模型科普网站：https://fs.blog/mental-models
+
+### 数据浏览
+
+数据指标： https://zh.tradingeconomics.com/indicators
+
+人口统计：https://www.citypopulation.de/zh/china/townships/chenzhou/
+
+香港开放数据平台：https://data.gov.hk/sc
+
+香港大学数据中心：https://datahub.hku.hk
+
+学术研究与数据开放共享平台：https://figshare.com
+
+双重思维实验室：https://doublethinklab.org
+
+### 行业前沿
+
+精确预测恒大暴雷，并被央视恶意抹黑。
+
+Citron Research：
+* https://fortune.com/asia/2024/03/26/andrew-left-citron-research-founder-banned-hong-kong-trading-warning-china-evergrande/
+* https://cdn.gmtresearch.com/public-ckfinder/Short-sellers/Citron%20Research/Evergrande%20Citron%20presentation.pdf
+
+moodys:
+* https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-market-crisis.html
+
+标普（S&P Global Ratings）:
+* https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/12229402
+
+
+### 传媒研究
+
+新闻核查：
+* https://www.bbc.com/news/bbcverify
+* https://dfrlab.org
+* https://www.mygopen.com
+* https://chinamediaproject.org
+* 澳大利亚战略政策研究所 - 国际网络政策中心：https://www.aspi.org.auprogramscyber-technology-and-security
+* 欧盟外事行动署 - 官方抗击虚假信息平台：https://euvsdisinfo.eu
+* 大西洋理事会：https://www.atlanticcouncil.org/programs/digital-forensic-research-lab
+* 英国通讯管理局（Ofcom）裁决档案数据库：https://www.ofcom.org.uk/search-results?query=China+Global+Television+Network
+* wiki:[https://zh.wikipedia.org/wiki/中国中央电视台相关争议](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E7%9B%B8%E5%85%B3%E4%BA%89%E8%AE%AE)
+* Meta：https://about.fb.com/news/2022/09/removing-coordinated-inauthentic-behavior-from-china-and-russia
+
+权威文献
+- **Gary King, Jennifer Pan, Margaret E. Roberts (Harvard University & Stanford University & UC San Diego)**
+  - [How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument](https://gking.harvard.edu/files/50c.pdf)
+
+- **Stanford Internet Observatory (Stanford University)**
+  - [Telling China's Story: The Chinese Communist Party's Campaign to Shape Global Narratives](https://stacks.stanford.edu/file/druid:pf306sw8941/sio-china_story_white_paper-final.pdf)
+
+- **Stanford Center on China's Economy and Institutions (Stanford University)**
+  - [Does Bypassing Internet Censorship in China Change Individual Beliefs, Attitudes, and Behaviors?](https://sccei.fsi.stanford.edu/china-briefs/does-bypassing-internet-censorship-china-change-individual-beliefs-attitudes-and)
+
+- **Guanxiong Huang (City University of Hong Kong / UC eScholarship Repository)**
+  - [A Gesture of Compliance: Media Convergence in China](https://escholarship.org/content/qt1j4413n4/qt1j4413n4_noSplash_cf2e5e170443a4c577bf6b40005d713e.pdf)
+
+- **China Media Project (The University of Hong Kong)**
+  - [Watchwords: The Life of the Party](https://chinamediaproject.org/2012/09/10/watchwords-the-life-of-the-party/)
+
+- **School of Oriental and African Studies, University of London (SOAS) / Cambridge University Press**
+  - [The China Quarterly: Propaganda AND "People's Daily" Article Index](https://www.cambridge.org/core/journals/china-quarterly/listing?q=Propaganda+AND+%22People%27s+Daily%22&searchWithinIds=37A7B629381F092FD873F9979093ABFC&fts=yes)
+
+- **Journal of Contemporary China (Taylor & Francis Publishing / University of Denver)**
+  - [Journal of Contemporary China: People's Daily Framing Policy Search Results](https://www.tandfonline.com/action/doSearch?AllField=People%27s+Daily+Framing+Policy&SeriesKey=cjcc20)
+
 
 
 ### 站点浏览
@@ -46,43 +104,6 @@ readhub：https://readhub.cn
 
 自由档案馆：https://iwantrun.com
 
-彩票实验室：https://cpglsys.com
-
-各类PDF杂文：https://morepdf.online
-
-思辨录：https://mind-guards.com
-
-拾光库：https://shiguangbaoku.com
-
-年度访问量最大的网站：https://zh.semrush.com/trending-websites
-
-零食分析（英语）：https://www.taquitos.net
-
-商务预报：https://cif.mofcom.gov.cn/cif/html/indexCenter2024/index.html
-
-数据指标： https://zh.tradingeconomics.com/indicators
-
-polymarket 各个事件概率：https://polymarket.com/zh
-
-人口统计：https://www.citypopulation.de/zh/china/townships/chenzhou/
-
-全球反诈骗组织GASO：https://www.globalantiscam.org
-
-高德地图-主要城市交通分析报告：https://report.amap.com/index.do
-
-软科排名 一款权威高等的教育排名平台：https://www.shanghairanking.cn
-
-猫眼专业版实时票房：https://piaofang.maoyan.com/i/dashboard
-
-爱分析网：https://www.afenxi.com
-
-全球 9000+ 城市实时物价对比（房租、餐饮、工资、购买力）：https://www.numbeo.com/cost-of-living
-
-全球城市生活成本指数：https://www.expatistan.com/cost-of-living
-
-AI对中国就业市场冲击：https://mistysun19.github.io/ai-jobs-cn/cn/
-
-
 经济研究：
 
 * https://www.newyorkfed.org/research
@@ -93,5 +114,4 @@ AI对中国就业市场冲击：https://mistysun19.github.io/ai-jobs-cn/cn/
 
 * http://jjll.ruc.edu.cn/CN/article/showBrowseTopList.do
 * https://rkyj.ruc.edu.cn/CN/article/showBrowseTopList.do
-
 
