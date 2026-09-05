@@ -43,6 +43,8 @@ moodys: https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-
 
 野村经济：https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
 
+> [!note]
+> [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
 
 ### 传媒研究
 
