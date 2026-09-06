@@ -35,6 +35,13 @@ lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 > 什么宏大叙事，画饼都是客气的说法，直接说诈骗就行了。
 >
 > 所有骗子一个套路，编造他们辉煌的过去，许诺你精彩的未来，牺牲你的当下，然后把问题留给更有智慧的后人来解决。
+>
+> 值得深思
+> * [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
+> * [如何看待北大教授张丹丹称「灵活就业本身就是一种福利」，这是现代版“何不食肉糜”吗？ - 回马枪战斗团的回答 - 知乎](https://www.zhihu.com/question/2073662402017628359/answer/2074545170494837719)
+> * [老板说「以后招聘超过40岁的，无论是哪个岗位，一律不招」，超过40岁就开始遭嫌弃了吗？ - 望周知的回答 - 知乎](https://www.zhihu.com/question/646072373/answer/2079391946099970549)
+> * [上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？ - 精神自由之路的回答 - 知乎](https://www.zhihu.com/question/2078861981591905362/answer/2078873333005809614)
+> * 统计谬误参考：选取错误的样本，选择错误的基数，使用正确的计算，得出荒谬的结论。
 
 Citron Research：
 * https://fortune.com/asia/2024/03/26/andrew-left-citron-research-founder-banned-hong-kong-trading-warning-china-evergrande/
@@ -46,15 +53,7 @@ moodys: https://www.moodys.com/web/en/us/insights/credit-risk/china-real-estate-
 
 摩根大通：https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/trojan-fire-horse.pdf
 
-野村经济：https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies/
-
-> [!note]
-> 值得深思
-> * [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
-> * [如何看待北大教授张丹丹称「灵活就业本身就是一种福利」，这是现代版“何不食肉糜”吗？ - 回马枪战斗团的回答 - 知乎](https://www.zhihu.com/question/2073662402017628359/answer/2074545170494837719)
-> * [老板说「以后招聘超过40岁的，无论是哪个岗位，一律不招」，超过40岁就开始遭嫌弃了吗？ - 望周知的回答 - 知乎](https://www.zhihu.com/question/646072373/answer/2079391946099970549)
-> * [上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？ - 精神自由之路的回答 - 知乎](https://www.zhihu.com/question/2078861981591905362/answer/2078873333005809614)
-> * 统计谬误参考：选取错误的样本，选择错误的基数，使用正确的计算，得出荒谬的结论。
+野村经济：https://www.nomuraconnects.com/focused-thinking-posts/china-shock-2-0-how-are-cheap-imports-impacting-economies
 
 ### 传媒研究
 
