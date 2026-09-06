@@ -8,7 +8,7 @@
 
 
 > [!tip]
-> App 推荐：
+> 随着探索的不断深入，愈发意识到英语是睁眼看世界的那双眼睛，App 推荐：
 > * BookShelves eBook Reader：https://getbookshelves.app
 > * 英语阅读器：https://apps.apple.com/cn/app/%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880
 > * 多邻国：https://www.duolingo.cn
