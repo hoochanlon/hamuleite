@@ -9,6 +9,7 @@
 > * [有哪些高质量的自学网站？ - 剥茧的回答 - 知乎](https://www.zhihu.com/question/41476832/answer/2033326637509502024)
 > * [有用的社会生活小常识 - 咕噜耄 - B站](https://space.bilibili.com/2930404)
 > * [利用学生、教职工身份可以享受到的相关学生优惠 - ivmm/Student-resources ](https://github.com/ivmm/Student-resources)
+> * [厦门大学攻略大全](https://github.com/XMU-Helper/home)
 > * [战争与革命中的西南联大 - archive.org](https://ia601400.us.archive.org/6/items/themicrostudios_gmail_2007/%E6%88%98%E4%BA%89%E4%B8%8E%E9%9D%A9%E5%91%BD%E4%B8%AD%E7%9A%84%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7.pdf)
 
 
