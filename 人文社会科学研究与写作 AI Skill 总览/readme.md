@@ -1,5 +1,13 @@
 ## 人文社会科学研究与写作 AI Skill 总览
 
+> [!important]
+> 启示录：
+> * [【GPT6模型发布，AGI已经到来｜与OpenAI工程师赵迪的对谈：Astra、Codex、Grok、大模型Infra，“最混蛋的人”马斯克与奥特曼的智能平权】 ](https://www.bilibili.com/video/BV1wkbF61ERR)
+> * [【Matt Pocock 科普：为什么永远不能盲信 LLM【中英字幕】】](https://www.bilibili.com/video/BV16Tud6EEtj)
+> * [【“我们正处在一个危险的节点” 陶哲轩：AI加速科研的代价 是失去下一代科学家】](https://www.bilibili.com/video/BV1oJtu6tEFg)
+> * [【【中配】一万五的真实成本，20美元AI订阅只是假象 - The Infographics Show】](https://www.bilibili.com/video/BV14CMY6hEQY)
+> * https://www.youtube.com/@TheInfographicsShow
+
 建议不要把任何一个工具当作“自动写论文”软件，而应采用“研究问题—文献库—证据核验—写作审查”的组合流程。
 
 | 工具 | 类型 | 最适合的环节 | 主要输入 / 输出 | 人文社科适配度 | 主要边界 | 推荐用法 |
