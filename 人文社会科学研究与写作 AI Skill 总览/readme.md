@@ -77,22 +77,3 @@
 | 知乎回答 | 怎么联系期刊发表论文？ | Deepyond | 面向中文读者，尤其是首次投稿者，介绍中文期刊与国际期刊的投稿入口、材料准备、投稿后跟进和常见骗局。其价值在于提供操作清单和防骗提醒；局限在于属于个人经验式辅导，其中“知网是唯一靠谱入口”“国际期刊没有邮箱投稿”等表述较为绝对，不能替代目标期刊或出版社的官方指南。 | [知乎原文](https://www.zhihu.com/question/648455886/answer/2066479224249128357) |
 | 知乎回答 | 如何在期刊上发表论文，期刊投稿流程是怎样的？ | 论文发表李 Duang | 面向希望在国内期刊投稿的本科生和研究生等读者，介绍中文核心期刊类别、邮箱投稿、期刊官网在线投稿、知网投稿系统和纸质寄送等常见方式，并提醒读者核验投稿联系方式。其价值在于提供投稿渠道和风险防范方面的经验提示；局限在于属于个人经验式辅导，部分刊物名单、核心目录、收费标准和投稿要求具有时效性，必须以投稿时目标期刊官网或知网主页的信息为准。 | [知乎原文](https://www.zhihu.com/question/27746654/answer/147256236) |
 
-### References
-
-本文中的工具、书籍、文章和视频均通过各条目中的链接访问。链接页面的内容、评分、版本、可用性和版权状态可能发生变化，使用前应以原始页面及相关机构的最新信息为准。
-
-最后更新：2026 年 9 月
-
-作者：**Manus AI**
-
-> 本文仅提供研究工具与写作资源整理，不构成学术、出版、法律或数据安全方面的正式建议。任何 AI 生成或辅助生成的内容，都应由研究者根据原始材料、研究规范和目标期刊要求进行独立核验。
-
-[1]: https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills "Auto-Empirical-Research-Skills"
-[2]: https://github.com/ganzhi-black/humanities-thesis-skill "humanities-thesis-skill"
-[3]: https://github.com/fakerqwq/social-science-paper-writing-skill "social-science-paper-writing-skill"
-[4]: https://github.com/Imbad0202/academic-research-skills-codex "ARS-Codex"
-[5]: https://github.com/retorquere/zotero-better-bibtex "Zotero Better BibTeX"
-[6]: https://github.com/ccbogel/QualCoder "QualCoder"
-[7]: https://www.taguette.org/ "Taguette"
-
-<!-- 参考链接编号用于满足 Markdown 文档的引用定义规范；正文保留各条目中的直达链接，便于阅读和访问。 -->
