@@ -2,7 +2,9 @@
 
 <img width="1760" height="576" src="https://github.com/user-attachments/assets/5c640cf3-4bb7-47ff-ad80-ee68027fc56f" />
 
-*To be, or not to be, that is the question*
+> Shakespeare, W. (1992). *Hamlet* (A. R. Braunmuller, Ed.). Cambridge University Press.
+> 
+> > To be, or not to be, that is the question (3.1.56).
 
 ## Abstract
 
