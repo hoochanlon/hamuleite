@@ -7,6 +7,13 @@
 > * [战争与革命中的西南联大 - archive.org](https://ia601400.us.archive.org/6/items/themicrostudios_gmail_2007/%E6%88%98%E4%BA%89%E4%B8%8E%E9%9D%A9%E5%91%BD%E4%B8%AD%E7%9A%84%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7.pdf)
 
 
+> [!tip]
+> App 推荐：
+> * BookShelves eBook Reader：https://getbookshelves.app
+> * 英语阅读器：https://apps.apple.com/cn/app/%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880
+> * 多邻国：https://www.duolingo.cn
+> * 咕噜口语：https://speakguru.net
+
 
 ### 表1
 
