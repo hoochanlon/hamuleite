@@ -1,5 +1,8 @@
 # *城中村哈姆雷特*
 
+<img width="1760" height="576" src="https://github.com/user-attachments/assets/5c640cf3-4bb7-47ff-ad80-ee68027fc56f" />
+
+
 ## Abstract
 
 > [!important]
