@@ -29,7 +29,12 @@ lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 
 ### 行业前沿
 
-精确预测恒大暴雷，并被央视恶意抹黑。
+> [!important]
+> 精确预测恒大暴雷，并被央视恶意抹黑。
+>
+> 什么宏大叙事，画饼都是客气的说法，直接说诈骗就行了。
+>
+> 所有骗子一个套路，编造他们辉煌的过去，许诺你精彩的未来，牺牲你的当下，然后把问题留给更有智慧的后人来解决。
 
 Citron Research：
 * https://fortune.com/asia/2024/03/26/andrew-left-citron-research-founder-banned-hong-kong-trading-warning-china-evergrande/
