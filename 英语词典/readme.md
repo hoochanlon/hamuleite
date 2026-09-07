@@ -2,7 +2,7 @@
   * https://tio.freemdict.com/jp
   * https://sutian.moe.edu.tw/zh-hant/
   * https://terms.naer.edu.tw
-  * https://terms.naer.edu.tw （台湾）
+  * https://terms.naer.edu.tw 
   * https://www.shenyandayi.com
 
 图解词典（综合或名词）：
@@ -20,6 +20,7 @@
   * https://elllo.org
   * https://www.starfall.com
   * https://pbskids.org
+  * https://typewords.cc
 
 绘本：
   * https://freekidsbooks.org
