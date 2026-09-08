@@ -29,11 +29,12 @@
 | [QualCoder](https://github.com/ccbogel/QualCoder) / [Taguette](https://www.taguette.org/) | 定性分析工具 | 访谈、田野笔记、政策文本和历史材料编码 | 输入文本、PDF、音视频和图片；输出编码、分析备忘录及研究报告 | 很高 | AI 建议不能替代研究者建立编码框架和进行解释性判断 | 先由研究者建立 codebook，再将 AI 限定为辅助归类、比较和发现反例 |
 
 >[!note]
-> 漏掉了两个：
+> 太多了，漏掉了三个：
 >
 > [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)：模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来。适用于知乎回答、公众号文章、博客、论坛帖、人物故事、科普、评测、小说、口播等大多数中文写作场景。
 >
 > [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill)：写作蒸馏器.skill｜蒸馏复刻任意写作风格的 agent skill | Writing DNA
+> [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills)：将博导十年科研经验，炼化为你的 AI 副导师。
 
 
 ### 二、推荐的最小工作流
