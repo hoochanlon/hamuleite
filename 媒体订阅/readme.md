@@ -1,6 +1,7 @@
-#### GitHub高关注的免费梯子
+#### 简报
 
-* https://github.com/Pawdroid/Free-servers
+* https://ai-pulse-lab.com/#top
+* https://readhub.cn
 
 #### 英语新闻
 
