@@ -114,6 +114,7 @@
 > * [A股和美股最大的区别是什么？ - 慎行的回答 - 知乎](https://www.zhihu.com/question/5819442599/answer/2061871571896160946)
 > * [A股和美股最大的区别是什么？ - 王俊燃的回答 - 知乎](https://www.zhihu.com/question/5819442599/answer/2066940604169315696)
 > * [无产阶级专政和革命，这套理论有哪些致命的缺点 - 微光生存手册的文章 - 知乎](https://zhuanlan.zhihu.com/p/2079200520015820392)
+> * [为什么英国仍然被认为是世界强国？ - Krypto守护者的回答 - 知乎](https://www.zhihu.com/question/46344151/answer/2079212681957996259)
 > * [纽约时报中文网 - 限制民众海外投资，北京筑起金融高墙](https://cn.nytimes.com/business/20260617/chinese-investors-restrictions/)
 > * [美股指南 zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) 
 
