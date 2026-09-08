@@ -34,6 +34,7 @@
 > [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)：模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来。适用于知乎回答、公众号文章、博客、论坛帖、人物故事、科普、评测、小说、口播等大多数中文写作场景。
 >
 > [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill)：写作蒸馏器.skill｜蒸馏复刻任意写作风格的 agent skill | Writing DNA
+>
 > [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills)：将博导十年科研经验，炼化为你的 AI 副导师。
 
 
