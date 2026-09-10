@@ -9,9 +9,11 @@
 * 巷仔口社會學：https://twstreetcorner.org
 * 芭乐人类学：https://guavanthropology.tw
 * 阮一峰的博客：https://www.ruanyifeng.com/blog/index.html
+* udn部落格 - 王孟源的博客：https://blog.udn.com/MengyuanWang/article
 * 新加坡人工智能研究员 李志轩：https://zhixuanli.github.io
 * tsai002：https://tsai002.github.io/
-* Dana C. Ernst：https://danaernst.com/blog/
+* Dana C. Ernst：https://danaernst.com/blog
+* 数学竞赛培训：https://ivyleaguecenter.org （这与常春藤联盟大学本身无关，它是一家专注于竞赛数学和升学考试辅导的私立教育中心）
 
 
 领域
@@ -22,6 +24,9 @@
 * https://www.mathofpolitics.com （擅长领域：政治学）
 * https://journalistsresource.org （擅长领域：政治学）
 * https://statmodeling.stat.columbia.edu （擅长领域：统计建模、因果推断）
+* https://thechinacollection.org （擅长领域：中国政治研究）
+* https://chinachange.org （擅长领域：人权研究）
+* https://paper-republic.org （擅长领域：华语文学翻译）
 
 爱思想
 
