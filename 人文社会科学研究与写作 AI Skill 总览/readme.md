@@ -4,7 +4,7 @@
 > **阅读提示**：以下资源适合用于研究问题形成、文献整理、材料分析、写作辅助和质量检查，但不应被视为“自动写论文”工具。更稳妥的做法是采用“研究问题—文献库—证据核验—写作审查”的组合流程，并由研究者对研究设计、事实依据、引文准确性和最终论证承担责任。
 >
 > **延伸观看**：
-> - [GPT6模型发布，AGI已经到来｜与OpenAI工程师赵迪的对谈：Astra、Codex、Grok、大模型 Infra、“最混蛋的人”马斯克与奥特曼的智能平权](https://www.bilibili.com/video/BV1wkbF61ERR)
+> - [尚莞迪Lydia - GPT6模型发布，AGI已经到来｜与OpenAI工程师赵迪的对谈](https://www.bilibili.com/video/BV1wkbF61ERR)
 > - [Matt Pocock 科普：为什么永远不能盲信 LLM（中英字幕）](https://www.bilibili.com/video/BV16Tud6EEtj)
 > - [董佩兰 - AI写作那股“怪味”到底从哪来？它和真人差在哪？我们到底该怎么用ai？](https://www.bilibili.com/video/BV13Bte6pExa)
 > - [“我们正处在一个危险的节点”——陶哲轩：AI 加速科研的代价是失去下一代科学家](https://www.bilibili.com/video/BV1oJtu6tEFg)
