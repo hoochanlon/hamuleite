@@ -18,10 +18,12 @@
   * https://www.clozemaster.com
   * https://50languages.com
   * https://www.loecsen.com
+  * https://learnenglishkids.britishcouncil.org
   * https://ankiweb.net/shared/addons
 
 
 情景融入：
+  * https://www.littlefox.com
   * https://www.eslfast.com
   * https://elllo.org
   * https://www.starfall.com
@@ -29,6 +31,8 @@
   * https://typewords.cc
 
 绘本：
+  * https://www.littlefox.com
+  * https://www.mightybook.com
   * https://freekidsbooks.org
   * https://storylineonline.net/library
   * https://www.oxfordowl.co.uk
