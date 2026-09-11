@@ -11,6 +11,7 @@
   * https://www.anglomaniacy.pl/picture-dictionary-topics-verbs.htm
 
 多邻国like
+  * https://langula.app
   * https://www.memrise.com
   * https://www.busuu.com
   * https://www.lingohut.com
