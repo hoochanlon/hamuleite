@@ -27,6 +27,7 @@
 * https://thechinacollection.org （擅长领域：中国政治研究）
 * https://chinachange.org （擅长领域：人权研究）
 * https://paper-republic.org （擅长领域：华语文学翻译）
+* https://hanshoppe.com （擅长领域：经济学）
 
 爱思想
 
