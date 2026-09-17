@@ -87,7 +87,10 @@ const vitePressOptions = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/hoochanlon/hamuleite',
+        items: [
+          { text: 'hamuleite', link: 'https://github.com/hoochanlon/hamuleite' },
+          { text: 'fq-book', link: 'https://github.com/hoochanlon/fq-book' },
+        ],
       },
     ],
     socialLinks: [

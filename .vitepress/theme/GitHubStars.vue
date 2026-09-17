@@ -1,7 +1,14 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
 
-const REPO = 'hoochanlon/hamuleite'
+const props = withDefaults(
+  defineProps<{
+    repo: string
+    label?: string
+  }>(),
+  { label: '' },
+)
+
 const stars = ref<string | null>(null)
 
 function formatCount(n: number): string {
@@ -11,7 +18,7 @@ function formatCount(n: number): string {
 
 onMounted(async () => {
   try {
-    const res = await fetch(`https://api.github.com/repos/${REPO}`)
+    const res = await fetch(`https://api.github.com/repos/${props.repo}`)
     if (!res.ok) return
     const data = await res.json()
     if (typeof data.stargazers_count === 'number') {
@@ -26,11 +33,12 @@ onMounted(async () => {
 <template>
   <a
     class="vp-github-stars"
-    :href="`https://github.com/${REPO}`"
+    :href="`https://github.com/${repo}`"
     target="_blank"
     rel="noopener noreferrer"
-    :title="stars ? `GitHub Stars: ${stars}` : 'GitHub'"
+    :title="stars ? `${label || repo} Stars: ${stars}` : (label || repo)"
   >
+    <span v-if="label" class="vp-github-stars__label">{{ label }}</span>
     <span class="vp-github-stars__icon" aria-hidden="true">
       <svg viewBox="0 0 16 16" width="14" height="14">
         <path
@@ -57,6 +65,7 @@ onMounted(async () => {
   font-size: 12px;
   font-weight: 600;
   text-decoration: none;
+  white-space: nowrap;
   transition: color 0.2s, border-color 0.2s, background-color 0.2s;
 }
 
@@ -64,6 +73,11 @@ onMounted(async () => {
   color: var(--vp-c-text-1);
   border-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg-soft);
+}
+
+.vp-github-stars__label {
+  color: inherit;
+  line-height: 1;
 }
 
 .vp-github-stars__icon {

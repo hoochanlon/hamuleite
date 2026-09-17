@@ -1,14 +1,14 @@
 import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
-import GitHubStars from './GitHubStars.vue'
+import RepoStars from './RepoStars.vue'
 import './custom.css'
 
 export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
-      // 页头导航右侧、社交图标前：展示 GitHub star 数
-      'nav-bar-content-after': () => h(GitHubStars),
+      // 页头导航右侧：本仓库 + fq-book 的 star 数
+      'nav-bar-content-after': () => h(RepoStars),
     })
   },
 }
