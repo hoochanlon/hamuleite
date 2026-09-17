@@ -8,3 +8,9 @@
 *.docx
 *.xls
 *.xlsx
+
+# VitePress 站点
+node_modules/
+dist/
+.vitepress/cache/
+.vitepress/dist/

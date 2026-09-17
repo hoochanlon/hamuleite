@@ -1,0 +1,45 @@
+/* 移动端抽屉里也给一点间距，避免贴边 */
+.VPNavScreenAppearance,
+.VPNavScreenSocialLinks {
+  margin-top: 8px;
+}
+
+/* hamlet.svg 是 currentColor 线稿，img 无法继承文字色，需强制描边色 */
+.VPNavBarTitle .logo {
+  filter: brightness(0);
+}
+
+.dark .VPNavBarTitle .logo {
+  filter: brightness(0) invert(1);
+}
+
+.VPHero .image-src {
+  width: 280px;
+  height: 280px;
+  max-width: 280px;
+  max-height: 280px;
+  filter: brightness(0);
+}
+
+.dark .VPHero .image-src {
+  filter: brightness(0) invert(1);
+}
+
+@media (min-width: 960px) {
+  .VPHero .image-src {
+    width: 320px;
+    height: 320px;
+    max-width: 320px;
+    max-height: 320px;
+  }
+}
+
+/* 首页右侧大图背后的光晕，对应 VitePress 官网 hero image 效果 */
+:root {
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #8b5cf6 50%,
+    #646cff 50%
+  );
+  --vp-home-hero-image-filter: blur(68px);
+}

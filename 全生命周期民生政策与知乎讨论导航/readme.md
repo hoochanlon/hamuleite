@@ -587,7 +587,7 @@
 [^ref-21]: [北京市政府：渐进式延迟法定退休年龄政策解读](https://www.beijing.gov.cn/gongkai/hygq/202409/t20240913_3867091.html)
 [^ref-22]: [人力资源社会保障部：第五轮高校毕业生三支一扶计划](https://chrm.mohrss.gov.cn/?post_type=post&p=16641)
 [^ref-23]: [湖南省人社厅：2026年三支一扶招募公告](https://rst.hunan.gov.cn/rst/xxgk/tzgg/202605/t20260527_33988098.html)
-[^ref-24]: [江苏省人社厅：2026年三支一扶招募公告](https://chrm.mohrss.gov.cn/announcement/%E6%B1%9F%E8%8B%8F%E7%9C%812026%E5%B9%B4%E9%AB%98%E6%A0%A1%E6%毕业生三支一扶计划招募公告/)
+[^ref-24]: [江苏省人社厅：2026年三支一扶招募公告](https://chrm.mohrss.gov.cn/announcement/%E6%B1%9F%E8%8B%8F%E7%9C%812026%E5%B9%B4%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%AE%A1%E5%88%92%E6%8B%9B%E5%8B%9F%E5%85%AC%E5%91%8A/)
 [^ref-25]: [新疆人社厅：2026年三支一扶招募公告](https://rst.xinjiang.gov.cn/xjrst/c112487/202607/8ff1d783baea45e9a5523353eb885274.shtml)
 [^ref-26]: [陕西省：2026年公务员考试服务基层项目人员职位说明](https://www.shaanxi.gov.cn/xw/ztzl/zxzt/zkzl/2026/2026/202601/t20260126_3607890.html)
 [^ref-27]: [人力资源社会保障部等：创业支持政策意见](https://www.moe.gov.cn/jyb_xxgk/gk_gbgg/moe_0/2025/gb03/gb03_zh/202507/t20250718_1198588.html)
