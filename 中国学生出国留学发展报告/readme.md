@@ -58,3 +58,12 @@
 | 生物   | A-Level Biology、BioTopics                                  |
 | 经济   | The Student Room、Khan Academy                              |
 | 计算机 | Zakonweb（CAIE 考试局）                                     |
+
+## 移民信息相关
+
+* [张哲瑞，周健，徐忠律师事务所 - 什么是移民排期？](https://www.hooyou.com/cn_version/visabulletin/index.html)
+* [咕噜美国通 - 2026年6月美国移民绿卡排期表](https://greencard.guruin.com)
+* [美国公民及移民服务局 - 《歡迎來到美國新移民指南》](https://www.uscis.gov/sites/default/files/document/guides/M-618_c.pdf)
+
+
+
