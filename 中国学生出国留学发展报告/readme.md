@@ -23,8 +23,8 @@
 
 高性价比人生指南：
 
-- https://eternity4719.github.io/HowToLiveBetter/?sec=31（十八岁之后有哪几条路）
-- https://eternity4719.github.io/HowToLiveBetter/?sec=32（出国留学：身份、打工、保险和回国认证）
+- https://eternity4719.github.io/HowToLiveBetter/?sec=31 （十八岁之后有哪几条路）
+- https://eternity4719.github.io/HowToLiveBetter/?sec=32 （出国留学：身份、打工、保险和回国认证）
 
 ## A-Level & SAT
 
