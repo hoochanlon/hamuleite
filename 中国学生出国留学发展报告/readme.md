@@ -1,53 +1,60 @@
 ## 先泼一盆冷水
 
-> 意向留学人群在留学期间的平均预算花费持续 4 年上升，2022 年为 53.5 万人民币左右。这一方面是由于中国家庭的经济条件不断提升，另一方面则是为更好地应对疫情之下的突发情况， 意向留学人群对预算的准备也更为充足。（2022, 新东方, p17）
+> 意向留学人群在留学期间的平均预算花费已连续四年上升，2022 年约为 53.5 万人民币。这一方面源于中国家庭经济条件的持续改善，另一方面则是因为面对疫情带来的不确定性，意向留学人群在预算上准备得更加充分。（2022, 新东方, p17）
 >
-> 新加坡作为英联邦国家，学费较欧美国家高校而言相对低廉，但教育质量很高，因此在性价比 方面颇具优势。此外，新加坡的生活费比较稳定，正常来说，保障基本衣食住行每年需 8-10 万元 人民币。（2022, 新东方, p112）
+> 新加坡属于英联邦国家，学费相对欧美高校更为低廉，教育质量却毫不逊色，因此在性价比上颇具优势。此外，新加坡的生活费也相对稳定，正常情况下，保障基本的衣食住行每年约需 8–10 万人民币。（2022, 新东方, p112）
 >
-> —— 新东方《中国留学白皮书》2022 (大学版) 
+> —— 新东方《中国留学白皮书》2022（大学版）
 
-简单说，欧美留学没有四五十多来万，怕是难搞定。
+一句话总结：欧美留学，没有四五十万打底，基本别想。
+
+另外再推荐一个访谈视频:  [【翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4】 ](https://www.bilibili.com/video/BV1darmBcE4A)
+
+能够身心完全追求理想的毕竟是少数人，大部分人也只能作为社会组织中螺丝钉。
+
+除了阶层差距，人的天赋差距也可以说是“人的差距比狗还大”。
+
 
 ## 相关留学资料分享
 
 资源分享：https://www.jianguoyun.com/p/DVRs0s8QqOPmBxjwmqkGIAA
 
-<img width="2068" height="832" alt="image" src="https://github.com/user-attachments/assets/b35d0eb7-a035-48ec-8af8-a93b16adc185" />
+<img src="https://github.com/user-attachments/assets/b35d0eb7-a035-48ec-8af8-a93b16adc185" />
 
 高性价比人生指南：
- * https://eternity4719.github.io/HowToLiveBetter/?sec=31 （十八岁之后有哪几条路）
- * https://eternity4719.github.io/HowToLiveBetter/?sec=32 （出国留学：身份、打工、保险和回国认证）
 
+- https://eternity4719.github.io/HowToLiveBetter/?sec=31（十八岁之后有哪几条路）
+- https://eternity4719.github.io/HowToLiveBetter/?sec=32（出国留学：身份、打工、保险和回国认证）
 
 ## A-Level & SAT
 
-国际学校学生，由学校教务部门统一组织集体报名。社会考生，通过英国文化教育协会SRS报名系统自主报名。总之，除了资金充裕之外，流程也是复杂...
+国际学校的学生由学校教务部门统一组织集体报名，社会考生则需通过英国文化教育协会的 SRS 报名系统自主报名。总之，除了要有钱，流程也不省心……
 
-| | A-Level | SAT |
-|---|---|---|
-| 所属体系 | 英国 | 美国 |
-| 本质 | 课程体系+入学考试 | 标准化能力测试 |
-| 备考周期 | 通常2年 | 相对较短 |
-| 核心用途 | 申请英联邦国家大学 | 申请美国大学 |
+|          | A-Level             | SAT            |
+| -------- | ------------------- | -------------- |
+| 所属体系 | 英国                | 美国           |
+| 本质     | 课程体系 + 入学考试 | 标准化能力测试 |
+| 备考周期 | 通常 2 年           | 相对较短       |
+| 核心用途 | 申请英联邦国家大学  | 申请美国大学   |
 
-* A-Level 全称 General Certificate of Education Advanced Level，是英国的大学入学考试课程，相当于英国的"高考"。
-* SAT 全称 Scholastic Assessment Test，俗称"美国高考"，由美国大学理事会（College Board）主办。
+- A-Level 全称 General Certificate of Education Advanced Level，是英国的大学入学考试课程，相当于英国的"高考"。
+- SAT 全称 Scholastic Assessment Test，俗称"美国高考"，由美国大学理事会（College Board）主办。
 
-国内本科毕业后留学，通常是申请硕士（研究生），主要看的是：
-* 本科成绩（GPA）：这是最核心的硬件指标
-* 语言成绩：雅思/托福（英国通常要求雅思6.5-7.0）
-* 个人陈述（PS）：说明你的学术兴趣和申请动机
-* 推荐信：一般需要2封学术推荐信
-* 其他：部分专业可能要求GMAT/GRE、作品集或工作经验
+国内本科毕业后留学，通常是申请硕士（研究生），主要看这几项：
 
-该部分由千问生成。
+- **本科成绩（GPA）**：最核心的硬件指标
+- **语言成绩**：雅思 / 托福（英国通常要求雅思 6.5–7.0）
+- **个人陈述（PS）**：说明你的学术兴趣与申请动机
+- **推荐信**：一般需要 2 封学术推荐信
+- **其他**：部分专业可能要求 GMAT / GRE、作品集或工作经验
 
-| 科目 | 推荐网站 |
-|---|---|
-| 数学 | ExamSolutions（视频讲解）、RevisionMaths、NRICH（思维拔高） |
-| 物理 | Mini Physics、A-Level Physics Online |
-| 化学 | Chemguide（文字版复习资料） |
-| 生物 | A-Level Biology、BioTopics |
-| 经济 | The Student Room、Khan Academy |
-| 计算机 | Zakonweb（CAIE考试局） |
+> 本部分由千问生成。
 
+| 科目   | 推荐网站                                                    |
+| ------ | ----------------------------------------------------------- |
+| 数学   | ExamSolutions（视频讲解）、RevisionMaths、NRICH（思维拔高） |
+| 物理   | Mini Physics、A-Level Physics Online                        |
+| 化学   | Chemguide（文字版复习资料）                                 |
+| 生物   | A-Level Biology、BioTopics                                  |
+| 经济   | The Student Room、Khan Academy                              |
+| 计算机 | Zakonweb（CAIE 考试局）                                     |
