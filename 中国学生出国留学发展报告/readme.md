@@ -1,14 +1,4 @@
-
-高性价比人生指南：
-* https://eternity4719.github.io/HowToLiveBetter/?sec=31 （十八岁之后有哪几条路）
-* https://eternity4719.github.io/HowToLiveBetter/?sec=32 （出国留学：身份、打工、保险和回国认证）
-
-资源分享：https://www.jianguoyun.com/p/DVRs0s8QqOPmBxjwmqkGIAA
-
-<img width="2068" height="832" alt="image" src="https://github.com/user-attachments/assets/b35d0eb7-a035-48ec-8af8-a93b16adc185" />
-
-
-## A-Level & SAT
+## 先泼一盆冷水
 
 > 意向留学人群在留学期间的平均预算花费持续 4 年上升，2022 年为 53.5 万人民币左右。这一方面是由于中国家庭的经济条件不断提升，另一方面则是为更好地应对疫情之下的突发情况， 意向留学人群对预算的准备也更为充足。（2022, 新东方, p17）
 >
@@ -17,6 +7,21 @@
 > —— 新东方《中国留学白皮书》2022 (大学版) 
 
 简单说，欧美留学没有四五十多来万，怕是难搞定。
+
+## 相关留学资料分享
+
+资源分享：https://www.jianguoyun.com/p/DVRs0s8QqOPmBxjwmqkGIAA
+
+<img width="2068" height="832" alt="image" src="https://github.com/user-attachments/assets/b35d0eb7-a035-48ec-8af8-a93b16adc185" />
+
+高性价比人生指南：
+ * https://eternity4719.github.io/HowToLiveBetter/?sec=31 （十八岁之后有哪几条路）
+ * https://eternity4719.github.io/HowToLiveBetter/?sec=32 （出国留学：身份、打工、保险和回国认证）
+
+
+## A-Level & SAT
+
+国际学校学生，由学校教务部门统一组织集体报名。社会考生，通过英国文化教育协会SRS报名系统自主报名。总之，除了资金充裕之外，流程也是复杂...
 
 | | A-Level | SAT |
 |---|---|---|
@@ -34,3 +39,15 @@
 * 个人陈述（PS）：说明你的学术兴趣和申请动机
 * 推荐信：一般需要2封学术推荐信
 * 其他：部分专业可能要求GMAT/GRE、作品集或工作经验
+
+该部分由千问生成。
+
+| 科目 | 推荐网站 |
+|---|---|
+| 数学 | ExamSolutions（视频讲解）、RevisionMaths、NRICH（思维拔高） |
+| 物理 | Mini Physics、A-Level Physics Online |
+| 化学 | Chemguide（文字版复习资料） |
+| 生物 | A-Level Biology、BioTopics |
+| 经济 | The Student Room、Khan Academy |
+| 计算机 | Zakonweb（CAIE考试局） |
+
