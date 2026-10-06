@@ -1,6 +1,6 @@
-广告插件
+微信防撤回补丁：https://github.com/huiyadanli/RevokeMsgPatcher
 
-https://github.com/r58Playz/uBlock-mv3
+广告插件完全版：https://github.com/r58Playz/uBlock-mv3
 
 游猴/脚本猫
 
