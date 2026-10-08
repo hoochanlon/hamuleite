@@ -25,7 +25,9 @@ moresapien：https://moresapien.org
 
 ESG 指南：从入门到实践：https://ohesg.com/fallacy-bias.html
 
+### 行业黑话
 
+咸鱼黑话词典：https://xianyuheihua.com/
 
 
 ### 百科浏览
