@@ -13,7 +13,7 @@ Logical Fallacies：
 * https://www.logicalfallacies.org
 * https://www.logicallyfallacious.com/fallacies
 * https://spotfallacy.com/logical-fallacy-game
-* https://yourlogicalfallacyis.com/
+* https://yourlogicalfallacyis.com/cn
 
 moresapien：https://moresapien.org
 
