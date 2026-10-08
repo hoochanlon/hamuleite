@@ -6,6 +6,26 @@
 
 慧悟万象阁：https://meta.niceshare.site/zh
 
+### 人人都需要懂一点逻辑学
+
+Logical Fallacies：
+
+* https://www.logicalfallacies.org
+* https://www.logicallyfallacious.com/fallacies
+* https://spotfallacy.com/logical-fallacy-game
+* https://yourlogicalfallacyis.com/
+
+moresapien：https://moresapien.org
+
+批判性思维训练：https://www.criticalthinkingexercise.org/learn
+
+斯坦福大学逻辑学入门：http://intrologic.stanford.edu/public/lessons.php
+
+香港大学逻辑学：https://philosophy.hku.hk/think/
+
+
+
+
 ### 百科浏览
 
 大英帝国百科全书：https://www.britannica.com
