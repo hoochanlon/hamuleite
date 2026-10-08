@@ -1,3 +1,11 @@
+### 认知工具
+
+高性价比指南: https://eternity4719.github.io/HowToLiveBetter
+
+心智模型 — 完整知识库：https://www.mindmax.me/zh/mental-models/
+
+慧悟万象阁：https://meta.niceshare.site/zh
+
 ### 百科浏览
 
 大英帝国百科全书：https://www.britannica.com
@@ -13,8 +21,6 @@ lesswrong 高校人才、学者聚集地：https://www.lesswrong.com
 全球知名的思维模型科普网站：https://fs.blog/mental-models
 
 ### 数据浏览
-
-高性价比指南: https://eternity4719.github.io/HowToLiveBetter
 
 数据指标：https://zh.tradingeconomics.com/indicators
 
