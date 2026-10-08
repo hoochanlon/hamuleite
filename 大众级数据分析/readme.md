@@ -21,7 +21,9 @@ moresapien：https://moresapien.org
 
 斯坦福大学逻辑学入门：http://intrologic.stanford.edu/public/lessons.php
 
-香港大学逻辑学：https://philosophy.hku.hk/think/
+香港大学逻辑学：https://philosophy.hku.hk/think/chi/
+
+ESG 指南：从入门到实践：https://ohesg.com/fallacy-bias.html
 
 
 
