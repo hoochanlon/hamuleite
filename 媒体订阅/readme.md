@@ -18,6 +18,7 @@
 * https://www.tdict.com
 * http://www.chinadaily.com.cn
 * https://www.globaltimes.cn
+* https://en.sedaily.com
 * https://zhuanlan.zhihu.com/p/104473574?utm_id=0 （预防针）
 * https://www.youtube.com/watch?v=-UuLXXQn5jA
 
