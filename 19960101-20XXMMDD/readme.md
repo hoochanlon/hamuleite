@@ -6,6 +6,7 @@
 目前无论哪个国家宏大叙事下都有其怪诞到离谱至极的一面 [苏联是不是人类历史上最大的笑话? - 知乎](https://www.zhihu.com/question/1950215022308462719)、[相信爱泼斯坦档案的都是什么样的人？ - 知乎](https://www.zhihu.com/question/2001262661736878392)，这个社会问题也很多 [养鹦鹉的05 - 相关采风视频](https://space.bilibili.com/3546379219634394)
 ，要是能做到 [司马懿](https://www.zhihu.com/question/650164682/answer/3509296038)、[钟会](https://www.zhihu.com/question/47624829/answer/292509525)、[徐阶](https://www.zhihu.com/question/32297808/answer/131411712)、[胡适](https://www.zhihu.com/question/14706795197/answer/1894085496503768383) ，哪怕烂如 [赵紫阳](http://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3) 得一善终，那也无憾了。人因为自己的认知，周围环境，受教育程度，个人体质，人生经历等等会做出不同的决定，从来没有一边倒过，我们普通人过具体的日子，不要拿宏观去谴责个体选择。
 
+* [社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实？ - 墨苍离的回答 - 知乎](https://www.zhihu.com/question/2058705447574582857/answer/2062592518697623802)
 * [科技进化论 - 资本围猎下：中国生育率溃败的隐秘战争！](https://www.bilibili.com/video/BV1k1pkzwEHW)
 * [科技进化论 - 黄播不死之谜：“数字妓女”背后的 千亿狂欢！](https://www.bilibili.com/video/BV19cdJBUEz8)
 * [如果日本人的性格是菊与刀，那中国人的性格又是什么呢？ - 知乎](https://www.zhihu.com/question/390686225/answer/1999772129462338039)
