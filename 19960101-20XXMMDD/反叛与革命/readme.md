@@ -1,5 +1,8 @@
 # 革命群众！炸了荒坂塔！以我残躯化烈火！
 
+<img width="1984" height="1110" alt="image" src="https://github.com/user-attachments/assets/0be5d2de-d84f-4816-b640-3638777561ae" />
+
+
 * 不明白播客：https://bumingbai.net
 * [为什么开国皇帝总要杀一批开国功臣，这是什么缘由？ - 历史崔的回答 - 知乎](https://www.zhihu.com/question/61055181/answer/2075892321997137785)
 * [如何评价自媒体人「徽剑」已于2年前遭买凶遇害，曾公开举报电诈大佬刘忍？这起惨剧背后有哪些警示？ - 明华风的回答 - 知乎](https://www.zhihu.com/question/2098344666953471026/answer/2098347666950378090)
