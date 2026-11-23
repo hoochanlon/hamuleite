@@ -30,6 +30,10 @@
 * 从摇篮到坟墓：国际视角下的丧葬福利：https://sci-hub.st/10.1111/spol.12018
 * 了解生命末期面临的严重困境：一项全国性的无人认领死亡案例分析：https://pmc.ncbi.nlm.nih.gov/articles/PMC11769727/
 
+纪录片：
+
+* [【中英纪录片】生而贫穷 2011—2025 born poor 2025](https://www.bilibili.com/video/BV11iHF6PECX)
+* [日本NHK深度跟拍北京外卖小哥：被AI算法追赶的真实人生（中字熟肉）](https://www.bilibili.com/video/BV1yTsi66EKY)
 
 ## 一、最值得优先阅读的长期调查
 
