@@ -21,6 +21,7 @@
 * 中国家庭教育支出调查报告（2021）：https://ciefr.pku.edu.cn/docs/2023-11/c0966ce10e3d4f58a25001735cc2a18c.pdf
 * 中国生育成本报告（2024）：https://www.caoss.org.cn/news/html?id=14157
 * 中国财政供养人员规模估算与结构分析：https://caoss.org.cn/upload/news/20251010/9bde5fa5bd4b44f594ef8e33f8255368.pdf
+* 社会分层、制度分割与社会不平等：一项关于中国养老金制度的福利社会学：https://www.wsp-publishing.com/en/article/22254500
 * 《中国基本医疗保险缴费制度公平性:基于国别比较的视角》：[东北财经大学直链](https://zzs.dufe.edu.cn/file/45817554-f613-11f0-8b6b-005056a49984/%E6%8E%92%E7%89%88%2B%E5%90%B4%E6%B6%B5%E5%AE%87_%E5%90%B4%E5%AE%87%E6%B6%B5_L.pdf)
 
 
