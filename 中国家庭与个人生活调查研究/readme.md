@@ -10,6 +10,10 @@
 >   * 人间防骗指南：https://github.com/QERSSD/HowToAvoidScams
 >   * 高性价比人生指南：https://github.com/eternity4719/HowToLiveBetter
 
+* 中国家庭教育支出调查报告（2021）：https://ciefr.pku.edu.cn/docs/2023-11/c0966ce10e3d4f58a25001735cc2a18c.pdf
+* 中国生育成本报告（2024）：https://www.caoss.org.cn/news/html?id=14157
+
+
 ## 一、最值得优先阅读的长期调查
 
 | 项目 | 机构 | 对象与覆盖 | 主要内容 | 实际链接 |
