@@ -14,6 +14,8 @@
 
 亚里士多德的《政治学》对于奴隶的相关论述，大概意思是：只作为会说话的纯粹的工具，那就是奴隶了。
 
+<img width="680" height="616" alt="db443ee72a313e64e2c13e11584551d0" src="https://github.com/user-attachments/assets/910b9076-e37a-4ecd-ade8-ebb627ed5263" />
+
 
 ## 相关留学资料分享
 
