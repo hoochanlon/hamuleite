@@ -11,6 +11,8 @@
 >   * 高性价比人生指南：https://github.com/eternity4719/HowToLiveBetter
 
 
+## 序·赛博朋克1949
+
 ## ゼロ、生育制度
 
 > It does not do to dwell on dreams and forget to live.（人不能活在梦里而忘记生活）
