@@ -10,6 +10,11 @@
 >   * 人间防骗指南：https://github.com/QERSSD/HowToAvoidScams
 >   * 高性价比人生指南：https://github.com/eternity4719/HowToLiveBetter
 
+2026全球养老保障指数(44个主要经济体全榜)：
+
+https://www.im.natixis.com/content/dam/natixis/website/insights/investor-sentiment/2026/2026-gri/2026-natixis-global-retirement-index.pdf
+
+生活在这个国家需做好份内的调研，孩子不是负载父母不切实际的妄想的奴隶，也不是为国家宏大叙事牺牲的工具。只把孩子作为出气筒，作为个人阶级跃迁的工具人，不配为人。
 
 ## 序·赛博朋克边缘行者
 
