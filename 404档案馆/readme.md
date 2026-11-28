@@ -1,5 +1,12 @@
-和谐历史档案馆
+### 和谐历史档案馆
 
+* [港大 Weiboscope 数据集](https://datahub.hku.hk/articles/dataset/Weiboscope_Open_Data/16674565)
 * 专门收录被知乎删除的垃圾文章：https://github.com/Albert-W/zhihu-dustbin
 * 从科技与开源的角度，导读国际隐私、匿名网络与审查新闻：https://anoni.net/news/zh-cn
 * 睡前消息：https://archive.bedtime.news/main
+* 端点星：https://terminus2049.github.io
+* 台湾记忆：https://tm.ncl.edu.tw/index
+* 公民行动影音库（台湾）：https://www.civilmedia.tw/archives/author/admin
+
+<img width="1642" height="916" alt="image" src="https://github.com/user-attachments/assets/90b0b5ec-2308-4a1b-8a2a-179b388cbe5a" />
+
