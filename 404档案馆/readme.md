@@ -2,6 +2,8 @@
 
 #### 中国
 
+知己一声拜拜远去这都市，要靠伟大同志搞搞新意思。照买照卖楼花处处有单位，但是旺角可能要换换名字。
+
 * [港大 Weiboscope 数据集](https://datahub.hku.hk/articles/dataset/Weiboscope_Open_Data/16674565)
 * 香港中文大学《21世纪》存档：https://github.com/saveweb/21C-Archive
 * 专门收录被知乎删除的垃圾文章：https://github.com/Albert-W/zhihu-dustbin
@@ -14,7 +16,7 @@
 #### 台湾
 
 * 台湾记忆：https://tm.ncl.edu.tw/index
-* 公民行动影音库（台湾）：https://www.civilmedia.tw/archives/author/admin
+* 公民行动影音库：https://www.civilmedia.tw/archives/author/admin
 * 中华民国大陆委员会：https://www.mac.gov.tw/cn/Content_List.aspx?n=ABBF62618F53F8DE
 
 <img width="1642" height="916" alt="image" src="https://github.com/user-attachments/assets/90b0b5ec-2308-4a1b-8a2a-179b388cbe5a" />
