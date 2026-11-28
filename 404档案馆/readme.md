@@ -28,5 +28,14 @@
 * 公民行动影音库：https://www.civilmedia.tw/archives/author/admin
 * 中华民国大陆委员会：https://www.mac.gov.tw/cn/Content_List.aspx?n=ABBF62618F53F8DE
 
+> [!note]
+> もしもあなたと逢（あ）えずにいたら、私（わたし）は何（なに）をしてたでしょうか。
+>
+> 平凡（へいぼん）だけど誰（だれ）かを愛（あい）し、普通（ふつう）の暮（く）らしをしてたでしょうか。
+>
+> 「時の流れに身をまかせ」
+
+#### 附录
+
 <img width="1642" height="916" alt="image" src="https://github.com/user-attachments/assets/90b0b5ec-2308-4a1b-8a2a-179b388cbe5a" />
 
